@@ -1,0 +1,15 @@
+pandas
+numpy
+python-binance
+ccxt
+streamlit
+fastapi
+uvicorn[standard]
+transformers
+langchain
+psycopg2-binary
+pymongo
+accelerate
+bitsandbytes
+peft
+python-dotenv
